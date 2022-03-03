@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy Bypass -File ".\StoppableActiveProtectionService.ps1"
